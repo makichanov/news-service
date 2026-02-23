@@ -1,1 +1,5 @@
 /src/main/resources/application-default.yaml
+
+app.env
+
+target/
