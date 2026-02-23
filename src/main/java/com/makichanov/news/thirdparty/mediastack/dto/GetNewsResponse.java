@@ -1,4 +1,4 @@
-package com.makichanov.news.dto;
+package com.makichanov.news.thirdparty.mediastack.dto;
 
 import lombok.*;
 
