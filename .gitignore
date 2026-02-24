@@ -1,5 +1,6 @@
 /src/main/resources/application-default.yaml
 
 app.env
+ns.iml
 
 target/
